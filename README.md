@@ -1,10 +1,43 @@
 # Gallery of Horns
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Feature #1: Display Images
 
-Currently, two official plugins are available:
+**Estimated time needed to complete**: *1 hour*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Start time**: *1800*
 
-![Lighthouse](lighthouse.png)
+**Finish time**: *1830*
+
+**Actual time needed to complete**: *30 minutes*
+
+## Feature #2: Allow Users to Favorite Individual Beasts
+
+**Estimated time needed to complete**: *1 hour*
+
+**Start time**: *1830*
+
+**Finish time**: *1930*
+
+**Actual time needed to complete**: *1 hour*
+
+## Feature #3: Bootstrap
+
+**Estimated time needed to complete**: *1 hour*
+
+**Start time**: *1930*
+
+**Finish time**: *2130*
+
+**Actual time needed to complete**: *2 hours*
+
+## Stretch Goal: Add Interaction
+
+**Estimated time needed to complete**: *1 hour*
+
+**Start time**: *2100*
+
+**Finish time**: _____
+
+**Actual time needed to complete**: _____
+
+> All times are in EST
