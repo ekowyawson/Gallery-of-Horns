@@ -1,5 +1,6 @@
 .hdr {
-  background: rgb(59, 59, 59);
-  color: white;
+  background: #111;
+  color: ivory;
   text-align: center;
+  padding: 1em;
 }
