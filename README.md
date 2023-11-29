@@ -1,43 +1,28 @@
 # Gallery of Horns
 
-## Feature #1: Display Images
+## Task
+
+1. Create an `input` element to allow users to **search** for an image. It is up to you to decide if the user should be able to search by title, keyword, or both.
+2. Write a **regular expression** pattern to create a **fuzzy search** so that the results are narrowed down and displayed every time the user enters or removes a character from the input.
+
+## Feature #1: Display a Modal
 
 **Estimated time needed to complete**: *1 hour*
 
 **Start time**: *1800*
 
-**Finish time**: *1830*
+**Finish time**: *__*
 
-**Actual time needed to complete**: *30 minutes*
+**Actual time needed to complete**: *__*
 
-## Feature #2: Allow Users to Favorite Individual Beasts
+## Stretch Goal: Fuzzy search
 
-**Estimated time needed to complete**: *1 hour*
+**Estimated time needed to complete**: *2 hours*
 
-**Start time**: *1830*
+**Start time**: *__*
 
-**Finish time**: *1930*
+**Finish time**: *__*
 
-**Actual time needed to complete**: *1 hour*
-
-## Feature #3: Bootstrap
-
-**Estimated time needed to complete**: *1 hour*
-
-**Start time**: *1930*
-
-**Finish time**: *2130*
-
-**Actual time needed to complete**: *2 hours*
-
-## Stretch Goal: Add Interaction
-
-**Estimated time needed to complete**: *1 hour*
-
-**Start time**: *2100*
-
-**Finish time**: _____
-
-**Actual time needed to complete**: _____
+**Actual time needed to complete**: *__*
 
 > All times are in EST
