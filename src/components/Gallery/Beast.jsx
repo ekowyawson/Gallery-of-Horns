@@ -9,7 +9,7 @@ function Beast( props ) {
   const [show, setShow] = useState(false);
 
   const vote = () => setCount(count + 1);
-
+  {/*MODAL FUNCTIONS*/}
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
 
@@ -17,14 +17,12 @@ function Beast( props ) {
     <>
       <Card data-bs-theme="dark" border="primary" style={{ width: '18rem', margin:"1em" }} onClick={handleShow}>
         <Card.Body>
-
           <Card.Title>{props.title}</Card.Title>
           <Card.Img variant="top" src={props.image_url} />
           <Card.Text>
             {props.description}
           </Card.Text>
           <Button onClick={vote} variant="primary">❤️ {count}</Button>
-
         </Card.Body>
       </Card>
 
