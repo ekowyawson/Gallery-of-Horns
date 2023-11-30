@@ -29,12 +29,22 @@ body {
     place-items: center;
     min-width: 320px;
     min-height: 100vh;
-    background: linear-gradient(to right, #868f96 0%, #242424 100%);
+    background: linear-gradient(to right, #3f3f3f 0%, #242424 100%);
 }
 
 h1 {
     font-size: 3.2em;
     line-height: 1.1;
+}
+
+div.card {
+    box-shadow: 5px 5px 5px black;
+}
+
+div.search-bar {
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
 }
 
 button {
