@@ -7,15 +7,12 @@ import styles from './gallery.module.css'
 function Gallery(props) {
 
   const [searchTerm, setSearchTerm] = useState('');
-
   // Function to handle input change and update the search term
   const handleInputChange = (e) => {
     setSearchTerm(e.target.value);
   };
-
   // Regular expression (regex) pattern for fuzzy search
   const searchRegex = new RegExp(searchTerm, 'i');
-
   // Filter the props.list based on the search term
   const filteredList = props.list.filter(
     (beast) =>
