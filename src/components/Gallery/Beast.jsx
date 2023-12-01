@@ -15,10 +15,10 @@ function Beast( props ) {
 
   return (
     <>
-      <Card data-bs-theme="dark" border="primary" style={{ width: '18rem', margin:"1em" }} onClick={handleShow}>
+      <Card data-bs-theme="dark" border="primary" style={{ width: '18rem', margin:"1em" }}>
         <Card.Body>
           <Card.Title>{props.title}</Card.Title>
-          <Card.Img variant="top" src={props.image_url} />
+          <Card.Img variant="top" src={props.image_url} onClick={handleShow} />
           <Card.Text>
             {props.description}
           </Card.Text>
